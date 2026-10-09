@@ -97,6 +97,9 @@ I am a **Python Full Stack Developer and Machine Learning Engineer** focused on 
 
 # 🛠️ Tech Stack
 
+<div align="center>
+
+
 | Category | Technologies |
 |---|---|
 | 🧑‍💻 **Languages** | ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
@@ -107,11 +110,16 @@ I am a **Python Full Stack Developer and Machine Learning Engineer** focused on 
 | 🧠 **RAG & GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=1C3C3C) ![FAISS](https://img.shields.io/badge/FAISS-white?style=for-the-badge&logo=faiss&logoColor=005571) ![HuggingFace](https://img.shields.io/badge/HuggingFace-white?style=for-the-badge&logo=huggingface&logoColor=FFD21E) |
 | 🛠️ **Tools** | ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717) ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=000000) ![Render](https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=000000) |
 
+
+  
+</div>
+
+
 ---
 
 # ⚡ What I Build
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%">
