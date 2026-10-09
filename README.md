@@ -273,7 +273,7 @@ Production-oriented APIs with authentication, database integration, optimization
 
 <td align="center">
 
-🧩
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38"/>
 
 <br/>
 
@@ -340,10 +340,85 @@ Production-oriented APIs with authentication, database integration, optimization
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7C3AED?style=for-the-badge)](https://durgaprasadcodes.vercel.app)
+<table>
+<tr>
 
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-kota-9a5b65320)
+<td align="center" width="180">
 
-[![GitHub](https://img.shields.io/badge/⭐%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgaprasadcodes)
+<a href="https://durgaprasadcodes.vercel.app">
+<img src="https://cdn.simpleicons.org/vercel/000000" width="32"/>
+<br/>
+<b>Portfolio</b>
+<br/>
+<sub>Explore My Work →</sub>
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+<a href="https://www.linkedin.com/in/durgaprasadkota">
+<img src="https://unpkg.com" width="32"/>
+
+<br/>
+<b>LinkedIn</b>
+<br/>
+<sub>Let's Connect →</sub>
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+<a href="https://github.com/durgaprasadcodes">
+<img src="https://cdn.simpleicons.org/github/181717" width="32"/>
+<br/>
+<b>GitHub</b>
+<br/>
+<sub>View My Code →</sub>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://leetcode.com/u/durgaprasadcodes/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32"/>
+<br/>
+<b>LeetCode</b>
+<br/>
+<sub>DSA & Problem Solving →</sub>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="mailto:durgaprasad04289@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
+<br/>
+<b>Email</b>
+<br/>
+<sub>Let's Work Together →</sub>
+</a>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/github/7C3AED" width="32"/>
+<br/>
+<b>Open Source</b>
+<br/>
+<sub>Building in Public</sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
