@@ -1,192 +1,317 @@
-<div align="center">
-  
-<h1 align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7F00FF,50:A855F7,100:38BDF8&text=DURGA%20PRASAD%20KOTA&fontColor=000000&fontSize=45&animation=fadeIn"/>
-</h1>
-
-  
-### Python Full Stack Developer • Machine Learning Engineer
-
-<p align="center">
-  <b>Building scalable web applications</b> and <b>intelligent ML systems</b><br/>
-  with clean architecture, performance focus, and real-world impact.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=yellow&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Machine+Learning+Engineer;Building+things+that+actually+ship.;UI+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Model" alt="Typing SVG" />
-
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=Blue)](https://www.linkedin.com/in/durga-prasad-kota-9a5b65320)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgaprasad04289@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgaprasad4289)
-
-</div>
-
-<br/>
+# README.md
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:7F00FF,50:A855F7,100:38BDF8&text=DURGA%20PRASAD%20KOTA&fontColor=000000&fontSize=45&animation=fadeIn"/>
 
-<p align='center'>
-  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,fastapi,postgres,mysql,supabase,git,github,vscode,vercel,docker"/>
-  
+### 🐍 Python Full Stack Developer • 🤖 Machine Learning Engineer
+
+<p>
+Building scalable web applications and intelligent ML systems
+<br/>
+with clean architecture, performance, and real-world impact.
 </p>
 
 </div>
 
-
-
 ---
 
+# 🚀 About Me
 
-## 🚀 ABOUT ME 
+I am a **Python Full Stack Developer and Machine Learning Engineer** focused on building **end-to-end applications, intelligent systems, and production-ready APIs**.
 
-I am a **Python Full Stack Developer and Machine Learning Engineer** with hands-on experience building **end-to-end web applications** and **data-driven ML solutions**.
+<div align="center">
 
-I focus on creating **scalable, clean, and production-ready systems** — from responsive frontends to efficient backend APIs and intelligent models.
+<img src="https://skillicons.dev/icons?i=react,django,fastapi,postgres,tensorflow,pytorch,docker" />
 
-- 💡 Strong in **React, Django, and FastAPI-based development**
-- ⚙️ Experienced in **REST APIs, database design, and optimization**
-- 🤖 Skilled in **ML pipelines, data analysis, and model building**
-- 🚀 Interested in building **real-world impactful projects**
+<br/><br/>
 
-<p align="center">
-</p>
-
-📈 Currently improving:
-- Advanced React & frontend performance  
-- Backend scalability & system design  
-- Applied Machine Learning  
-
-🎯 Goal: To build **scalable applications and intelligent systems** that solve real problems.
-
----
-
-## ⚡ What I Build
+### ⚡ My Development Pipeline
 
 <table>
 <tr>
+<td align="center">
+
+🌐<br/>
+<b>Frontend</b><br/>
+<sub>React</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+⚙️<br/>
+<b>Backend</b><br/>
+<sub>Django • FastAPI</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🗄️<br/>
+<b>Database</b><br/>
+<sub>PostgreSQL • Supabase</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🤖<br/>
+<b>Machine Learning</b><br/>
+<sub>Scikit-learn • TensorFlow • PyTorch</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🧠<br/>
+<b>RAG / GenAI</b><br/>
+<sub>LangChain • Embeddings • Vector Search</sub>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🚀<br/>
+<b>Deployment</b><br/>
+<sub>Docker • Vercel • Render</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| 🧑‍💻 **Languages** | ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| ⚙️ **Backend** | ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=092E20) ![FastAPI](https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi&logoColor=009688) |
+| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=3ECF8E) |
+| 🤖 **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) ![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=013243) ![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=150458) |
+| 🧠 **RAG & GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=1C3C3C) ![FAISS](https://img.shields.io/badge/FAISS-white?style=for-the-badge&logo=faiss&logoColor=005571) ![HuggingFace](https://img.shields.io/badge/HuggingFace-white?style=for-the-badge&logo=huggingface&logoColor=FFD21E) |
+| 🛠️ **Tools** | ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717) ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=000000) ![Render](https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=000000) |
+
+---
+
+# ⚡ What I Build
+
+<table>
+<tr>
+
 <td width="50%">
 
 ### 🌐 Full Stack Applications
-Responsive, scalable web apps built with clean architecture from UI to database. Django + FastAPI backends, React frontends, optimized queries.
+
+Responsive and scalable web applications using modern frontend and backend architecture.
+
+**React • Django • FastAPI • PostgreSQL**
 
 </td>
+
 <td width="50%">
 
-### 🤖 ML Systems
-End-to-end ML pipelines — data ingestion, feature engineering, model training, evaluation, and deployment. Not just notebooks.
+### 🤖 Machine Learning Systems
+
+End-to-end ML workflows including preprocessing, feature engineering, training, evaluation, and deployment.
+
+**NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch**
 
 </td>
+
 </tr>
+
 <tr>
+
+<td width="50%">
+
+### 🧠 RAG & GenAI
+
+AI applications using embeddings, vector databases, semantic search, retrieval pipelines, and LLMs.
+
+**LangChain • FAISS • PGVector • Hugging Face**
+
+</td>
+
 <td width="50%">
 
 ### ⚙️ Backend & APIs
-RESTful APIs with authentication, rate limiting, and proper database design. Built to handle real traffic.
+
+Production-oriented APIs with authentication, database integration, optimization, and scalable architecture.
+
+**Django • FastAPI • PostgreSQL • Redis**
 
 </td>
-<td width="50%">
 
-### 📊 Data & Analytics
-EDA, visualization, predictive modeling. Translating messy data into actionable insights with Pandas, Plotly, and Scikit-learn.
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Performance
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=durgaprasadcodes"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=durgaprasadcodes&theme=react-dark"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgaprasadcodes&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<table align="center">
+<tr>
+
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+
+<br/>
+
+<b>Advanced React</b>
+
+<br/>
+
+<sub>Architecture • Performance</sub>
 
 </td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+
+<br/>
+
+<b>Backend Engineering</b>
+
+<br/>
+
+<sub>Django • FastAPI</sub>
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+
+<br/>
+
+<b>PostgreSQL</b>
+
+<br/>
+
+<sub>Optimization • PGVector</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+
+<br/>
+
+<b>Machine Learning</b>
+
+<br/>
+
+<sub>PyTorch • TensorFlow</sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+
+<br/>
+
+<b>RAG & GenAI</b>
+
+<br/>
+
+<sub>LangChain • Embeddings</sub>
+
+</td>
+
+<td align="center">
+
+🧩
+
+<br/>
+
+<b>DSA</b>
+
+<br/>
+
+<sub>Problem Solving • LeetCode</sub>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🗃️ TECH STACK (Industry-Relevant)
+# 🚀 Featured Development Areas
 
+<div align="center">
 
-| Category | Technologies |
+| Area | Focus |
 |---|---|
-| 🧑🏻‍💻 **Languages** | ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-| ⚙️ **Backend** | ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=092E20) ![FastAPI](https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi&logoColor=009688) |
-| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue) ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED) |
-| 🤖 **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) ![Keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=D00000) ![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=013243) ![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=150458) ![Plotly](https://img.shields.io/badge/Plotly-white?style=for-the-badge&logo=plotly&logoColor=3F4F75) |
-| 🧠 **RAG & GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=1C3C3C) ![FAISS](https://img.shields.io/badge/FAISS-white?style=for-the-badge&logo=faiss&logoColor=005571) ![HuggingFace](https://img.shields.io/badge/HuggingFace-white?style=for-the-badge&logo=huggingface&logoColor=FFD21E) |
-| 🛠️ **Deployment & Tools** | ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717) ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=000000) ![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![Render](https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=000000) |
-
----
-
-## 📊 GITHUB PERFORMANCE
-
-<div align="center">
-
-## My GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=durgaprasadcodes)
-
-<!-- Activity Graph -->
-## My GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durgaprasadcodes&theme=react-dark)
-
-## My Githuh History
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgaprasadcodes&amp;theme=tokyonight"/>
-
-## Most Languages Used By Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgaprasadcodes&theme=tokyonight"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgaprasadcodes&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
+| 🌐 **Full Stack** | React, Django, FastAPI, REST APIs |
+| ⚙️ **Backend** | Authentication, APIs, database optimization |
+| 🤖 **Machine Learning** | Model development, evaluation, deployment |
+| 🧠 **RAG** | LangChain, embeddings, vector search, retrieval |
+| 🗄️ **Database** | PostgreSQL, Supabase, MongoDB, PGVector |
+| 🚀 **Deployment** | Docker, Vercel, Render |  
+  
 </div>
 
 ---
 
-## 🎯 CURRENT FOCUS
+# 💼 Open To
 
-- Advanced React & system-level frontend patterns  
-- Backend scalability & API design  
-- Applied Machine Learning projects  
-- Interview-ready DSA & problem solving  
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</div>
+- 🎓 Software Engineering Internships
+- 🐍 Python Full-Stack opportunities
+- 🤖 Machine Learning opportunities
+- 🧠 AI / RAG Engineering opportunities
 
 ---
 
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7C3AED?style=for-the-badge)](https://durgaprasadcodes.vercel.app)
 
-### Open to:
-- Open for Internships   
-- Python Full-Stack & ML opportunities  
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-kota-9a5b65320)
 
-<div align='center'>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://durgaprasadcodes.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasadkota)
 [![GitHub](https://img.shields.io/badge/⭐%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgaprasadcodes)
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;section=footer&amp;color=0:38BDF8,50:A855F7,100:7F00FF"/>
-
-</div>
-
