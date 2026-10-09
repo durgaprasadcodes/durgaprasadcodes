@@ -97,7 +97,8 @@ I am a **Python Full Stack Developer and Machine Learning Engineer** focused on 
 
 # 🛠️ Tech Stack
 
-<div align="center>
+
+<div align="center">
 
 
 | Category | Technologies |
@@ -120,6 +121,7 @@ I am a **Python Full Stack Developer and Machine Learning Engineer** focused on 
 # ⚡ What I Build
 
 <table align="center">
+  
 <tr>
 
 <td width="50%">
@@ -301,6 +303,28 @@ Production-oriented APIs with authentication, database integration, optimization
 | 🗄️ **Database** | PostgreSQL, Supabase, MongoDB, PGVector |
 | 🚀 **Deployment** | Docker, Vercel, Render |  
   
+</div>
+
+<div align="center">
+
+
+<img src="https://cdn.simpleicons.org/vercel/000000" width="38"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/render/000000" width="38"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/neon/00E599" width="38"/>
+
+<br/><br/>
+
+ **Vercel** • **Render** • **PostgreSQL** • **Docker**  • **Supabase** • **Neon** 
+
 </div>
 
 ---
