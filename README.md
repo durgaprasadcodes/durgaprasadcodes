@@ -105,41 +105,15 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 ## 🗃️ TECH STACK (Industry-Relevant)
 
 
-### 🧑🏻‍💻Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Backend
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🤖  Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-
+| Category | Technologies |
+|---|---|
+| 🧑🏻‍💻 **Languages** | ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| ⚙️ **Backend** | ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=092E20) ![FastAPI](https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi&logoColor=009688) |
+| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue) ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED) |
+| 🤖 **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) ![Keras](https://img.shields.io/badge/Keras-white?style=for-the-badge&logo=keras&logoColor=D00000) ![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=013243) ![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=150458) ![Plotly](https://img.shields.io/badge/Plotly-white?style=for-the-badge&logo=plotly&logoColor=3F4F75) ![MLflow](https://img.shields.io/badge/MLflow-white?style=for-the-badge&logo=mlflow&logoColor=0194E2) |
+| 🛠️ **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717) ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=000000) ![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![Render](https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=000000) |
+| 🧠 **RAG & GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=1C3C3C) ![FAISS](https://img.shields.io/badge/FAISS-white?style=for-the-badge&logo=faiss&logoColor=005571) ![HuggingFace](https://img.shields.io/badge/HuggingFace-white?style=for-the-badge&logo=huggingface&logoColor=FFD21E) |
 
 ---
 
@@ -199,14 +173,13 @@ EDA, visualization, predictive modeling. Translating messy data into actionable 
 
 
 ### Open to:
-- Open for Internships  
-- Entry-level / Junior roles  
+- Open for Internships   
 - Python Full-Stack & ML opportunities  
 
 <div align='center'>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://durgaprasadcodes.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasadkota/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://durgaprasadcodes.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasadkota)
 [![GitHub](https://img.shields.io/badge/⭐%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgaprasadcodes)
 
 <div align="center">
